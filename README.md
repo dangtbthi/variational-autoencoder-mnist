@@ -1,4 +1,4 @@
-# variational-autoencoder-mnist
+# Variational Autoencoder on MNIST
 
 ## Project Overview
 This repository contains a Variational Autoencoder (VAE) implementation on the MNIST dataset using PyTorch. The project focuses on both practical coding and theoretical understanding, including latent variable models, KL divergence, variational inference and the reparameterization trick.
